@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum Triplets** · Team ID `VTU-QFF-HC-0158` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum Triplets)
+[⬆ Back to Top](#quantum-triplets)
 
 </div>
